@@ -9,11 +9,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{64
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccess", "DataAccess", "{277FF87B-37BA-4FE5-8A4C-4916A1A451A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockApp.Business", "Businees\StockApp.Business\StockApp.Business.csproj", "{DAD87156-D3EC-43FB-AED2-96DFA02D4E40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockApp.Business", "Businees\StockApp.Business\StockApp.Business.csproj", "{DAD87156-D3EC-43FB-AED2-96DFA02D4E40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockApp.DataAcess", "DataAccess\StockApp.DataAcess\StockApp.DataAcess.csproj", "{E2F1167A-3B11-4F86-91F6-284B684125AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockApp.DataAcess", "DataAccess\StockApp.DataAcess\StockApp.DataAcess.csproj", "{E2F1167A-3B11-4F86-91F6-284B684125AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockApp.WindowsForms", "Presentation\StockApp.WindowsForms\StockApp.WindowsForms.csproj", "{2EDC975B-931E-4479-8CA9-FA2A5EF6E15F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockApp.WindowsForms", "Presentation\StockApp.WindowsForms\StockApp.WindowsForms.csproj", "{2EDC975B-931E-4479-8CA9-FA2A5EF6E15F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
